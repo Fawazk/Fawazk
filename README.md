@@ -1,4 +1,4 @@
-[![Fawaz k GitHub Banner](./SAVE_20220124_122751 (1).png)](https://github.com/Fawazk)
+[![Fawaz k GitHub](./SAVE_20220124_122751 (1).png)](https://github.com/Fawazk)
 
 
 [![Visits Badge](https://badges.pufler.dev/visits/Fawazk/Fawazk)](https://github.com/Fawazk)
