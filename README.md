@@ -8,33 +8,6 @@ I am a full stack developer,  I consider myself to be an enthusiastic developer 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fawaz-k/)
 
 
-
-## 📌 Pinned Repositories
-
-<a href="https://github.com/Fawazk/jai-kisan.git">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Fawazk&repo=jai-kisan&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
-
-## &#x1f4c8; GitHub Stats
-
-
-
-<a href="https://github.com/Fawazk">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fawazk&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/Fawazk">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Fawazk&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Fawazk GitHub Stats" />
-</a>
-<br>
-<br>
-
-## 💼 Skills
-
-
 ### Languages and Tools:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -70,6 +43,31 @@ I am a full stack developer,  I consider myself to be an enthusiastic developer 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+
+## 📌 Pinned Repositories
+
+<a href="https://github.com/Fawazk/jai-kisan.git">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Fawazk&repo=jai-kisan&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+<br>
+
+## &#x1f4c8; GitHub Stats
+
+
+
+<a href="https://github.com/Fawazk">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fawazk&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Fawazk">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Fawazk&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Fawazk GitHub Stats" />
+</a>
+<br>
+<br>
+
 
 
 
