@@ -1,10 +1,13 @@
+Hi there 👋
+
+I am a full stack developer,  I consider myself to be an enthusiastic developer that adores coding. In addition to my work, I enjoy creating and contributing.
+
+
 [![Visits Badge](https://badges.pufler.dev/visits/Fawazk/Fawazk)](https://github.com/Fawazk)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/fawazk83241966)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fawaz-k/)
 
-Hi there 👋
 
-I am a full stack developer,  I consider myself to be an enthusiastic developer that adores coding. In addition to my work, I enjoy creating and contributing.
 
 ## 📌 Pinned Repositories
 
