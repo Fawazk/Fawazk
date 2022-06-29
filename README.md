@@ -35,11 +35,11 @@ I am a full stack developer,  I consider myself to be an enthusiastic developer 
 ## 💼 Skills
 
 
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=Node.js&logoColor=white&color=green)
-![](https://img.shields.io/badge/Django-informational?style=flat&logo=Express&logoColor=white&color=green)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=green)
+![](https://img.shields.io/badge/Django-informational?style=flat&logo=Django&logoColor=white&color=green)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDb&logoColor=white&color=green)
-![](https://img.shields.io/badge/SQL-informational?style=flat&logo=MongoDb&logoColor=white&color=green)
+![](https://img.shields.io/badge/SQL-informational?style=flat&logo=SQL&logoColor=white&color=green)
 
 
 
